@@ -1,0 +1,38 @@
+{
+  "name": "OPSPWK.WEB.ID",
+  "short_name": "OPSPWK",
+  "start_url": "https://www.opspwk.web.id/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Informasi Pendidikan, Teknologi dan Berita Terhangat Masa Kini",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-HZYT6VUeVFM/Xa-dJtkEFSI/AAAAAAAAKik/MKqxxg4BXJg-d45MkcJKFspxo2d2pakJACNcBGAsYHQ/s48/opspwk.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-HZYT6VUeVFM/Xa-dJtkEFSI/AAAAAAAAKik/MKqxxg4BXJg-d45MkcJKFspxo2d2pakJACNcBGAsYHQ/s72/opspwk.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-HZYT6VUeVFM/Xa-dJtkEFSI/AAAAAAAAKik/MKqxxg4BXJg-d45MkcJKFspxo2d2pakJACNcBGAsYHQ/s96/opspwk.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-HZYT6VUeVFM/Xa-dJtkEFSI/AAAAAAAAKik/MKqxxg4BXJg-d45MkcJKFspxo2d2pakJACNcBGAsYHQ/s144/opspwk.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-HZYT6VUeVFM/Xa-dJtkEFSI/AAAAAAAAKik/MKqxxg4BXJg-d45MkcJKFspxo2d2pakJACNcBGAsYHQ/s168/opspwk.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-HZYT6VUeVFM/Xa-dJtkEFSI/AAAAAAAAKik/MKqxxg4BXJg-d45MkcJKFspxo2d2pakJACNcBGAsYHQ/s192/opspwk.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-HZYT6VUeVFM/Xa-dJtkEFSI/AAAAAAAAKik/MKqxxg4BXJg-d45MkcJKFspxo2d2pakJACNcBGAsYHQ/s512/opspwk.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
